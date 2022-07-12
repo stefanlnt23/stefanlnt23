@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my personal blog-website where i will be posting helpful totorials and small applications. [stefanlenta.org](stefanlenta.org)
 
-- 🌱 I’m currently learning **JavaScript-Python-Networking(CCNA)**
+- 🌱 I’m currently learning **JavaScript-Python-Java-Networking(CCNA)-Advanced Database**
 
 - 👯 I’m looking to collaborate pro bono on any python-Js projects **-.-**
 
