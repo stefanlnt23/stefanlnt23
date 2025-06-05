@@ -1,38 +1,149 @@
-<h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">A passionate Full-Stack Developer that's always curios of new technologies.</h3>
+<div align="center">
+  
+# 👋 Hello World, I'm Stefan! 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanlnt23&label=Profile%20views&color=0e75b6&style=flat" alt="stefanlnt23" /> </p>
+### 🚀 Full-Stack Developer | 💡 Tech Enthusiast | 🌟 Innovation Seeker
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanlnt23" alt="stefanlnt23" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Always+Learning+New+Technologies;Building+Amazing+Web+Applications;Open+Source+Contributor" alt="Typing SVG" />
 
-- 🔭 I’m currently working on my personal blog-website where i will be posting helpful totorials and small applications. [stefanlenta.org](stefanlenta.org)
+<img src="https://komarev.com/ghpvc/?username=stefanlnt23&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-- 🌱 I’m currently learning **JavaScript-Python-Java-Networking(CCNA)-Advanced Database**
+</div>
 
-- 👯 I’m looking to collaborate pro bono on any python-Js projects **-.-**
+---
 
-- 👨‍💻 All of my projects are available at [stefanlenta.org](stefanlenta.org)
+<div align="center">
 
-- 📝 I regularly write articles on [stefanlenta.org](stefanlenta.org)
+## 🏆 GitHub Achievements
 
-- 💬 Ask me about **JavaScript-Python**
+<img src="https://github-profile-trophy.vercel.app/?username=stefanlnt23&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
-- 📫 How to reach me **stefanlenta@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/stefan-lenta/](https://www.linkedin.com/in/stefan-lenta/)
+---
 
-- ⚡ Fun fact **You can hear a blue whale's heartbeat from over 2 miles away**
+## 💫 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/stefan-lenta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefan-lenta" height="30" width="40" /></a>
-<a href="https://fb.com/stefan lenta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stefan lenta" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanlnt23&show_icons=true&locale=en&layout=compact" alt="stefanlnt23" /></p>
+```javascript
+const stefan = {
+    location: "🌍 Earth",
+    currentFocus: "Building stefanlenta.org",
+    learning: ["JavaScript", "Python", "Java", "CCNA", "Advanced Databases"],
+    collaboration: "Open to pro bono Python & JS projects",
+    askMeAbout: ["JavaScript", "Python", "Full-Stack Development"],
+    funFact: "🐋 You can hear a blue whale's heartbeat from over 2 miles away!",
+    portfolio: "stefanlenta.org"
+};
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stefanlnt23&show_icons=true&locale=en" alt="stefanlnt23" /></p>
+### 🔭 Currently Working On
+> 📝 **Personal Blog & Tutorial Platform** - Building a comprehensive resource at [stefanlenta.org](https://stefanlenta.org) featuring helpful tutorials and interactive applications
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanlnt23&" alt="stefanlnt23" /></p>
+### 🌱 Learning Journey
+> 🎯 Mastering **JavaScript**, **Python**, **Java**, **Networking (CCNA)**, and **Advanced Database Management**
+
+### 👯 Let's Collaborate
+> 🤝 I'm excited to contribute to **Python** and **JavaScript** projects pro bono - let's build something amazing together!
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=js,python,java,html,css" />
+
+### 🖥️ Frontend Development
+<img src="https://skillicons.dev/icons?i=react,bootstrap,figma" />
+
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+
+### 🔧 Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,docker,linux,bash,postman" />
+
+### 📚 Other Skills
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=stefanlnt23&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanlnt23&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+  
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanlnt23&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/stefan-lenta">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://stefanlenta.org">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:stefanlenta@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://fb.com/stefan%20lenta">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Goals for 2025
+
+```
+📈 Contribute to 50+ open source projects
+🔧 Master advanced JavaScript frameworks
+🏗️ Build 10 full-stack applications
+📚 Complete CCNA certification
+🌟 Grow stefanlenta.org community
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+<div align="center">
+
+**✨ "Code is like humor. When you have to explain it, it's bad." – Cory House ✨**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
