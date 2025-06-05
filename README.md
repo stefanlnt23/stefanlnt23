@@ -73,13 +73,23 @@ graph LR
 
 | 💻 **Language** | 📊 **Progress** | 🎯 **Focus Area** |
 |:---:|:---:|:---:|
-| **JavaScript** | ![90%](https://progress-bar.dev/90?color=f1e05a) | Advanced Frameworks |
-| **Python** | ![85%](https://progress-bar.dev/85?color=3572A5) | AI/ML Development |
-| **Java** | ![75%](https://progress-bar.dev/75?color=b07219) | Enterprise Solutions |
-| **Networking** | ![60%](https://progress-bar.dev/60?color=00d4aa) | CCNA Certification |
-| **Databases** | ![80%](https://progress-bar.dev/80?color=336791) | Performance Tuning |
+| **JavaScript** | ![](https://img.shields.io/badge/90%25-Advanced-brightgreen?style=flat-square) | Advanced Frameworks |
+| **Python** | ![](https://img.shields.io/badge/85%25-Proficient-green?style=flat-square) | AI/ML Development |
+| **Java** | ![](https://img.shields.io/badge/75%25-Intermediate-yellow?style=flat-square) | Enterprise Solutions |
+| **Networking** | ![](https://img.shields.io/badge/60%25-Learning-orange?style=flat-square) | CCNA Certification |
+| **Databases** | ![](https://img.shields.io/badge/80%25-Proficient-green?style=flat-square) | Performance Tuning |
 
 </div>
+
+**Alternative Progress Display:**
+
+```
+JavaScript   ████████████████████░ 90%  🚀 Advanced
+Python       ████████████████████░ 85%  🐍 Proficient  
+Java         ███████████████░░░░░░ 75%  ☕ Intermediate
+Networking   ████████████░░░░░░░░░ 60%  🌐 Learning
+Databases    ████████████████░░░░░ 80%  🗄️ Proficient
+```
 
 ### 👯 Let's Collaborate
 
