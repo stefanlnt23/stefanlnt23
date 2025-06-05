@@ -39,13 +39,69 @@ const stefan = {
 ```
 
 ### 🔭 Currently Working On
-> 📝 **Personal Blog & Tutorial Platform** - Building a comprehensive resource at [stefanlenta.org](https://stefanlenta.org) featuring helpful tutorials and interactive applications
+
+<details>
+<summary>📝 <strong>Personal Blog & Tutorial Platform</strong></summary>
+<br>
+
+🚀 Building a comprehensive resource at **[stefanlenta.org](https://stefanlenta.org)**
+- 📚 Creating helpful tutorials and guides
+- 💻 Developing interactive web applications  
+- 🎨 Designing user-friendly interfaces
+- 📱 Implementing responsive design principles
+
+</details>
 
 ### 🌱 Learning Journey
-> 🎯 Mastering **JavaScript**, **Python**, **Java**, **Networking (CCNA)**, and **Advanced Database Management**
+
+```mermaid
+graph LR
+    A[🎯 Current Focus] --> B[JavaScript]
+    A --> C[Python] 
+    A --> D[Java]
+    A --> E[CCNA Networking]
+    A --> F[Advanced Databases]
+    
+    B --> G[🚀 Advanced Frameworks]
+    C --> H[🤖 AI/ML Libraries] 
+    D --> I[☕ Enterprise Applications]
+    E --> J[🌐 Network Security]
+    F --> K[📊 Data Optimization]
+```
+
+<div align="center">
+
+| 💻 **Language** | 📊 **Progress** | 🎯 **Focus Area** |
+|:---:|:---:|:---:|
+| **JavaScript** | ![90%](https://progress-bar.dev/90?color=f1e05a) | Advanced Frameworks |
+| **Python** | ![85%](https://progress-bar.dev/85?color=3572A5) | AI/ML Development |
+| **Java** | ![75%](https://progress-bar.dev/75?color=b07219) | Enterprise Solutions |
+| **Networking** | ![60%](https://progress-bar.dev/60?color=00d4aa) | CCNA Certification |
+| **Databases** | ![80%](https://progress-bar.dev/80?color=336791) | Performance Tuning |
+
+</div>
 
 ### 👯 Let's Collaborate
-> 🤝 I'm excited to contribute to **Python** and **JavaScript** projects pro bono - let's build something amazing together!
+
+<div align="center">
+
+```diff
++ 🤝 Open to Pro Bono Collaboration
++ 🐍 Python Projects Welcome
++ ⚡ JavaScript Applications
++ 🌟 Open Source Contributions
++ 💡 Innovative Ideas Exchange
+```
+
+</div>
+
+<div align="center">
+  
+[![Collaboration](https://img.shields.io/badge/Looking%20for-Collaboration-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)](mailto:stefanlenta@gmail.com)
+[![Python](https://img.shields.io/badge/Python-Projects-blue?style=for-the-badge&logo=python&logoColor=white)](mailto:stefanlenta@gmail.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Applications-yellow?style=for-the-badge&logo=javascript&logoColor=black)](mailto:stefanlenta@gmail.com)
+
+</div>
 
 ---
 
